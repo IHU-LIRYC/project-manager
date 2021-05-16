@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Reconstruction Projects
 
-project r1: Fast HR-LGE with Deep Learning reconstruction.<br/> 
+[project r1: Fast HR-LGE with Deep Learning reconstruction](r1.md).<br/> 
 project r2: Automated Inversion Time selection for Black-Blood LGE.<br/>
 project r3: Multi-contrast Motion correction for T1 rho-weighted images.<br/>
 
