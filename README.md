@@ -8,13 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Reconstruction Projects
 
-project r1: Fast HR-LGE with Deep Learning reconstruction. 
-project r2: Automated Inversion Time selection for Black-Blood LGE. 
-project r3: Multi-contrast Motion correction for T1 rho-weighted images.
+project r1: Fast HR-LGE with Deep Learning reconstruction.<br/> 
+project r2: Automated Inversion Time selection for Black-Blood LGE.<br/>
+project r3: Multi-contrast Motion correction for T1 rho-weighted images.<br/>
 
 ### Post-processing Projects
 
-project p1: LV segmentation of T1 rho mapping images.
+project p1: LV segmentation of T1 rho mapping images.<br/>
 
 
 
