@@ -18,7 +18,5 @@ project p1: LV segmentation of T1 rho mapping images.<br/>
 
 ### Support or Contact
 
-Maillot Aurelien: 
+Maillot Aurelien: aurelien.maillot@ihu-liryc.fr <br/>
 Bustin Aurelien: 
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
