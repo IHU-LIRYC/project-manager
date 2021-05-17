@@ -1,4 +1,4 @@
-### Test Readme for project
+# Project r1: Benchmark of Unet architectures for fast HR-LGE
 
 ### Goal:
 Implementation of different U-Net architectures for fast reconstruction of undersampled 3D
